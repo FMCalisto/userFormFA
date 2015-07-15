@@ -21,3 +21,15 @@ Use this method to get the default Font Awesome CSS.
 ## Changes to previous version
 
 Changed Language and some styles.
+
+### JSFiddle
+
+Test and understand better:
+
+https://jsfiddle.net/FMCalisto/cgx8xz8q/
+
+### CodePen
+
+Other repository:
+
+http://codepen.io/FMCalisto/pen/qdYvvJ
